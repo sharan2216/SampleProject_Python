@@ -1,17 +1,15 @@
 import time
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.selenium_manager import SeleniumManager
 
 import pytest
+from selenium import webdriver
 
-@pytest.fixture(params=["chrome"], scope='class')
-def init_driver(request):
-    if request.param == "Chrome":
-        ch_driver = webdriver.Chrome()
-    if request.param == "Firefox":
-        ff_driver = webdriver.Firefox()
-    request.cls.driver = webdriver
-    webdriver.implicitly_wait(10)
+
+@pytest.fixture()
+def setup_and_teardown(request):
+    driver = webdriver.Chrome()
+    driver.maximize_window()
+    driver.get("https://tutorialsninja.com/demo/")
+    request.cls.driver = driver
+    time.sleep(3)
     yield
-    webdriver.close()
+    driver.quit()
