@@ -2,3 +2,4 @@ list is mutable  -- tuple is immutable
 list allows duplcates values -- tuple doesn't allows duplicates values
 list use [] brackests  -- tuple uses () brackets
 list is slow -- tuple is Fast
+
