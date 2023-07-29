@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30843026-a58a-44f7-b8c6-2c97b3c1a5ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/ForLopp_demotest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/arguments_inpython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/functions_in_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/range_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearningSelenium/return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/booking_site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/duplicate element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/duplicate2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/list prog1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/occurance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/reverse string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/sample2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/sample_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/second largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Coding_Practice/vowels count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumConcepts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumConcepts/demo_hidden_elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/LIST vs Tuple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PROGRAMS/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
